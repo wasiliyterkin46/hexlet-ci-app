@@ -1,3 +1,6 @@
+# Status badge
+![test1](https://github.com/wasiliyterkin46/hexlet-ci-app/actions/workflows/test1.yml/badge.svg
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
