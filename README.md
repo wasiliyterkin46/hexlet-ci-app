@@ -1,5 +1,5 @@
 # Status badge
-![test1](https://github.com/wasiliyterkin46/hexlet-ci-app/actions/workflows/test1.yml/badge.svg
+[![test1](https://github.com/wasiliyterkin46/hexlet-ci-app/actions/workflows/test1.yml/badge.svg)](https://github.com/wasiliyterkin46/hexlet-ci-app/actions/workflows/test1.yml)
 
 # Example app for CI Hexlet course
 
